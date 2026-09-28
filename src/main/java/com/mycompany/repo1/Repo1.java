@@ -11,6 +11,6 @@ package com.mycompany.repo1;
 public class Repo1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Bing Chilling!");
     }
 }
